@@ -1,2 +1,23 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+##Document Summary 
+
+####<html> ... </html>
+The tag shows up at the beginning and the end of an HTML document ( known as the root element) It indicates that the webpage is writtetten in HTML5 ? and all other page markup comes in between these beginning and ending tags.
+
+####<head> ... </head> 
+The contains information that specific page, including the title tags, meta data , and links to scripts and style sheets  
+
+####<title> ... </title>
+The title tag is the title for that page , useful for both search engines ( when they scan and index pages) and users ( showing up up in a browsers title bar) by explicity stating the primary topic of each page.
+
+####<body> ... </body>
+Body tags include all content that will be shown to users, including everything they will see and reed
+
+                #####Example
+<html>
+  <head>
+     <title>HTML cheat sheet</title>
+  </head>
+<body>
+  All userful hints are here    
+  </body>
+</html>
